@@ -1,0 +1,6 @@
+invoice_id,storeid,documentdate,netprice,status,type
+1,101,2026-02-20,1000,1,sale
+2,101,2026-02-20,200,1,return
+3,102,2026-02-20,1500,1,sale
+4,101,2026-02-21,800,1,sale
+5,102,2026-02-21,100,1,return
